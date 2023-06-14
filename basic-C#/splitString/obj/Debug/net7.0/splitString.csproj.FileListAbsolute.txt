@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C#-Codes\splitString\bin\Debug\net7.0\splitString.exe
+C:\Users\user\Desktop\C#-Codes\splitString\bin\Debug\net7.0\splitString.deps.json
+C:\Users\user\Desktop\C#-Codes\splitString\bin\Debug\net7.0\splitString.runtimeconfig.json
+C:\Users\user\Desktop\C#-Codes\splitString\bin\Debug\net7.0\splitString.dll
+C:\Users\user\Desktop\C#-Codes\splitString\bin\Debug\net7.0\splitString.pdb
+C:\Users\user\Desktop\C#-Codes\splitString\obj\Debug\net7.0\splitString.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#-Codes\splitString\obj\Debug\net7.0\splitString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#-Codes\splitString\obj\Debug\net7.0\splitString.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#-Codes\splitString\obj\Debug\net7.0\splitString.AssemblyInfo.cs
+C:\Users\user\Desktop\C#-Codes\splitString\obj\Debug\net7.0\splitString.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#-Codes\splitString\obj\Debug\net7.0\splitString.dll
+C:\Users\user\Desktop\C#-Codes\splitString\obj\Debug\net7.0\refint\splitString.dll
+C:\Users\user\Desktop\C#-Codes\splitString\obj\Debug\net7.0\splitString.pdb
+C:\Users\user\Desktop\C#-Codes\splitString\obj\Debug\net7.0\splitString.genruntimeconfig.cache
+C:\Users\user\Desktop\C#-Codes\splitString\obj\Debug\net7.0\ref\splitString.dll

@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C#-Codes\checkVowel\bin\Debug\net7.0\checkVowel.exe
+C:\Users\user\Desktop\C#-Codes\checkVowel\bin\Debug\net7.0\checkVowel.deps.json
+C:\Users\user\Desktop\C#-Codes\checkVowel\bin\Debug\net7.0\checkVowel.runtimeconfig.json
+C:\Users\user\Desktop\C#-Codes\checkVowel\bin\Debug\net7.0\checkVowel.dll
+C:\Users\user\Desktop\C#-Codes\checkVowel\bin\Debug\net7.0\checkVowel.pdb
+C:\Users\user\Desktop\C#-Codes\checkVowel\obj\Debug\net7.0\checkVowel.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#-Codes\checkVowel\obj\Debug\net7.0\checkVowel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#-Codes\checkVowel\obj\Debug\net7.0\checkVowel.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#-Codes\checkVowel\obj\Debug\net7.0\checkVowel.AssemblyInfo.cs
+C:\Users\user\Desktop\C#-Codes\checkVowel\obj\Debug\net7.0\checkVowel.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#-Codes\checkVowel\obj\Debug\net7.0\checkVowel.dll
+C:\Users\user\Desktop\C#-Codes\checkVowel\obj\Debug\net7.0\refint\checkVowel.dll
+C:\Users\user\Desktop\C#-Codes\checkVowel\obj\Debug\net7.0\checkVowel.pdb
+C:\Users\user\Desktop\C#-Codes\checkVowel\obj\Debug\net7.0\checkVowel.genruntimeconfig.cache
+C:\Users\user\Desktop\C#-Codes\checkVowel\obj\Debug\net7.0\ref\checkVowel.dll

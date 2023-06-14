@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C#-Codes\primeRange\bin\Debug\net7.0\primeRange.exe
+C:\Users\user\Desktop\C#-Codes\primeRange\bin\Debug\net7.0\primeRange.deps.json
+C:\Users\user\Desktop\C#-Codes\primeRange\bin\Debug\net7.0\primeRange.runtimeconfig.json
+C:\Users\user\Desktop\C#-Codes\primeRange\bin\Debug\net7.0\primeRange.dll
+C:\Users\user\Desktop\C#-Codes\primeRange\bin\Debug\net7.0\primeRange.pdb
+C:\Users\user\Desktop\C#-Codes\primeRange\obj\Debug\net7.0\primeRange.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#-Codes\primeRange\obj\Debug\net7.0\primeRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#-Codes\primeRange\obj\Debug\net7.0\primeRange.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#-Codes\primeRange\obj\Debug\net7.0\primeRange.AssemblyInfo.cs
+C:\Users\user\Desktop\C#-Codes\primeRange\obj\Debug\net7.0\primeRange.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#-Codes\primeRange\obj\Debug\net7.0\primeRange.dll
+C:\Users\user\Desktop\C#-Codes\primeRange\obj\Debug\net7.0\refint\primeRange.dll
+C:\Users\user\Desktop\C#-Codes\primeRange\obj\Debug\net7.0\primeRange.pdb
+C:\Users\user\Desktop\C#-Codes\primeRange\obj\Debug\net7.0\primeRange.genruntimeconfig.cache
+C:\Users\user\Desktop\C#-Codes\primeRange\obj\Debug\net7.0\ref\primeRange.dll

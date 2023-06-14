@@ -1,0 +1,8 @@
+c:\users\md. zahidur rahman\documents\visual studio 2012\Projects\1c\1c\bin\Debug\1c.exe.config
+c:\users\md. zahidur rahman\documents\visual studio 2012\Projects\1c\1c\bin\Debug\1c.exe
+c:\users\md. zahidur rahman\documents\visual studio 2012\Projects\1c\1c\bin\Debug\1c.pdb
+c:\users\md. zahidur rahman\documents\visual studio 2012\Projects\1c\1c\obj\Debug\1c.exe
+c:\users\md. zahidur rahman\documents\visual studio 2012\Projects\1c\1c\obj\Debug\1c.pdb
+C:\Users\MD. ZAHIDUR RAHMAN\Desktop\Advance Web Lab\Projects\1c\1c\bin\Debug\1c.exe.config
+C:\Users\MD. ZAHIDUR RAHMAN\Desktop\Advance Web Lab\Projects\1c\1c\obj\Debug\1c.exe
+C:\Users\MD. ZAHIDUR RAHMAN\Desktop\Advance Web Lab\Projects\1c\1c\obj\Debug\1c.pdb

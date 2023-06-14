@@ -1,0 +1,5 @@
+c:\users\md. zahidur rahman\documents\visual studio 2012\Projects\1f\1f\bin\Debug\1f.exe.config
+c:\users\md. zahidur rahman\documents\visual studio 2012\Projects\1f\1f\bin\Debug\1f.exe
+c:\users\md. zahidur rahman\documents\visual studio 2012\Projects\1f\1f\bin\Debug\1f.pdb
+c:\users\md. zahidur rahman\documents\visual studio 2012\Projects\1f\1f\obj\Debug\1f.exe
+c:\users\md. zahidur rahman\documents\visual studio 2012\Projects\1f\1f\obj\Debug\1f.pdb

@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C#-Codes\prime\bin\Debug\net7.0\prime.exe
+C:\Users\user\Desktop\C#-Codes\prime\bin\Debug\net7.0\prime.deps.json
+C:\Users\user\Desktop\C#-Codes\prime\bin\Debug\net7.0\prime.runtimeconfig.json
+C:\Users\user\Desktop\C#-Codes\prime\bin\Debug\net7.0\prime.dll
+C:\Users\user\Desktop\C#-Codes\prime\bin\Debug\net7.0\prime.pdb
+C:\Users\user\Desktop\C#-Codes\prime\obj\Debug\net7.0\prime.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#-Codes\prime\obj\Debug\net7.0\prime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#-Codes\prime\obj\Debug\net7.0\prime.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#-Codes\prime\obj\Debug\net7.0\prime.AssemblyInfo.cs
+C:\Users\user\Desktop\C#-Codes\prime\obj\Debug\net7.0\prime.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#-Codes\prime\obj\Debug\net7.0\prime.dll
+C:\Users\user\Desktop\C#-Codes\prime\obj\Debug\net7.0\refint\prime.dll
+C:\Users\user\Desktop\C#-Codes\prime\obj\Debug\net7.0\prime.pdb
+C:\Users\user\Desktop\C#-Codes\prime\obj\Debug\net7.0\prime.genruntimeconfig.cache
+C:\Users\user\Desktop\C#-Codes\prime\obj\Debug\net7.0\ref\prime.dll
